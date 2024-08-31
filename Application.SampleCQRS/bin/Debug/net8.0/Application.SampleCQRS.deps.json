@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Application.SampleCQRS/1.0.0": {
+        "dependencies": {
+          "Core.SampleCQRS": "1.0.0"
+        },
+        "runtime": {
+          "Application.SampleCQRS.dll": {}
+        }
+      },
+      "Core.SampleCQRS/1.0.0": {
+        "runtime": {
+          "Core.SampleCQRS.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Application.SampleCQRS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Core.SampleCQRS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

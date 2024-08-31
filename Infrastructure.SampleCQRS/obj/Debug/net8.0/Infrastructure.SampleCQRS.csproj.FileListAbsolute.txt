@@ -1,0 +1,17 @@
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Infrastructure.SampleCQRS\bin\Debug\net8.0\Infrastructure.SampleCQRS.deps.json
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Infrastructure.SampleCQRS\bin\Debug\net8.0\Infrastructure.SampleCQRS.runtimeconfig.json
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Infrastructure.SampleCQRS\bin\Debug\net8.0\Infrastructure.SampleCQRS.dll
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Infrastructure.SampleCQRS\bin\Debug\net8.0\Infrastructure.SampleCQRS.pdb
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Infrastructure.SampleCQRS\bin\Debug\net8.0\Core.SampleCQRS.dll
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Infrastructure.SampleCQRS\bin\Debug\net8.0\Core.SampleCQRS.pdb
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Infrastructure.SampleCQRS\obj\Debug\net8.0\Infrastructure.SampleCQRS.csproj.AssemblyReference.cache
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Infrastructure.SampleCQRS\obj\Debug\net8.0\Infrastructure.SampleCQRS.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Infrastructure.SampleCQRS\obj\Debug\net8.0\Infrastructure.SampleCQRS.AssemblyInfoInputs.cache
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Infrastructure.SampleCQRS\obj\Debug\net8.0\Infrastructure.SampleCQRS.AssemblyInfo.cs
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Infrastructure.SampleCQRS\obj\Debug\net8.0\Infrastructure.SampleCQRS.csproj.CoreCompileInputs.cache
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Infrastructure.SampleCQRS\obj\Debug\net8.0\Infrastr.15636214.Up2Date
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Infrastructure.SampleCQRS\obj\Debug\net8.0\Infrastructure.SampleCQRS.dll
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Infrastructure.SampleCQRS\obj\Debug\net8.0\refint\Infrastructure.SampleCQRS.dll
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Infrastructure.SampleCQRS\obj\Debug\net8.0\Infrastructure.SampleCQRS.pdb
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Infrastructure.SampleCQRS\obj\Debug\net8.0\Infrastructure.SampleCQRS.genruntimeconfig.cache
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Infrastructure.SampleCQRS\obj\Debug\net8.0\ref\Infrastructure.SampleCQRS.dll

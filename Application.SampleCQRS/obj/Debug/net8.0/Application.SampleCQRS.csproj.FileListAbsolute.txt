@@ -1,0 +1,15 @@
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Application.SampleCQRS\bin\Debug\net8.0\Application.SampleCQRS.deps.json
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Application.SampleCQRS\bin\Debug\net8.0\Application.SampleCQRS.dll
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Application.SampleCQRS\bin\Debug\net8.0\Application.SampleCQRS.pdb
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Application.SampleCQRS\bin\Debug\net8.0\Core.SampleCQRS.dll
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Application.SampleCQRS\bin\Debug\net8.0\Core.SampleCQRS.pdb
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Application.SampleCQRS\obj\Debug\net8.0\Application.SampleCQRS.csproj.AssemblyReference.cache
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Application.SampleCQRS\obj\Debug\net8.0\Application.SampleCQRS.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Application.SampleCQRS\obj\Debug\net8.0\Application.SampleCQRS.AssemblyInfoInputs.cache
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Application.SampleCQRS\obj\Debug\net8.0\Application.SampleCQRS.AssemblyInfo.cs
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Application.SampleCQRS\obj\Debug\net8.0\Application.SampleCQRS.csproj.CoreCompileInputs.cache
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Application.SampleCQRS\obj\Debug\net8.0\Applicat.DAFD7A5E.Up2Date
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Application.SampleCQRS\obj\Debug\net8.0\Application.SampleCQRS.dll
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Application.SampleCQRS\obj\Debug\net8.0\refint\Application.SampleCQRS.dll
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Application.SampleCQRS\obj\Debug\net8.0\Application.SampleCQRS.pdb
+E:\DotNet\CQRS_DesignPattern\SampleCQRS\Application.SampleCQRS\obj\Debug\net8.0\ref\Application.SampleCQRS.dll
