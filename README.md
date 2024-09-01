@@ -8,7 +8,6 @@ SQL Server veritabanına bağlanır ve Docker kullanılarak çalıştırılabili
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [Docker](https://www.docker.com/get-started)
 
-## Projeyi Klonlama
 
 Projeyi docker üzerinden çalıştırmak için aşağıdaki komutu kullanın:
 
